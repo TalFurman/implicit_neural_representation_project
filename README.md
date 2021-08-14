@@ -5,7 +5,7 @@
 
 
 ## Google Colab
-If you want to experiment with the exercise, you can access the [Colab](https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb).
+If you want to experiment with the exercise, you can access the [Colab](https://colab.research.google.com/drive/1rJBmnTdrL1roQ11kNN4Gdr3SavwzZBRR#scrollTo=GbJa6xIWW7js).
 
 
 ## Get started
