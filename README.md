@@ -18,12 +18,16 @@ conda activate siren
 ## High-Level structure
 The code is organized as follows:
 Under ./colab_example dir are the training and evaluation scripts 
-* main_eval_multi_image_script.py - running the multi-image representation training script. Creating the network and relevant generalization graph images
+* main_train_multi_image_script.py - running the multi-image representation training script. Creating the network and relevant generalization graph images
 * main_eval_multi_image_script.py - loading the trained network. Performing image up-sampling and interpolation between images.
 Under ./exersize_data 
 * 48 - data used for training 
 * 256 - data used as reference for upsampling 
 
-
+## Runing instructions 
+set up the enviroment and clone the repo.
+Once cloned, please run 
+1. main_train_multi_image_script.py to reproduce training results.
+2. main_eval_multi_image_script.py to reproduce eval results.
 ## Contact
 Tal.furmanov@gmail.com
