@@ -1,6 +1,6 @@
 # Implicit Neural Representations Exercise
 # Based on the work of Sitzman et al.
-### [Project Page](https://vsitzmann.github.io/siren) | [Orinal project repo](https://github.com/vsitzmann/siren) 
+### [Original Project Page](https://vsitzmann.github.io/siren) | [Orinal project repo](https://github.com/vsitzmann/siren) 
 [![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb)<br>
 
 
