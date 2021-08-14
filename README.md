@@ -3,6 +3,10 @@
 ### [Original Project Page](https://vsitzmann.github.io/siren) | [Orinal project repo](https://github.com/vsitzmann/siren) 
 [![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb)<br>
 
+## Project report summary
+The project [report](https://github.com/TalFurman/implicit_neural_representation_project/blob/main/Implicit_neural_representation_excersize_full.pdf) and the [summary](https://github.com/TalFurman/implicit_neural_representation_project/blob/main/Summary.pdf) pdf can be found under main project folder:
+* Implicit_neural_representation_excersize_full.pdf
+* Summary.pdf
 
 ## Google Colab
 If you want to experiment with the exercise, you can access the [Colab](https://colab.research.google.com/drive/1rJBmnTdrL1roQ11kNN4Gdr3SavwzZBRR#scrollTo=GbJa6xIWW7js).
